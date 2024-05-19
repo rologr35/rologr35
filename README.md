@@ -27,6 +27,8 @@ I'm an experienced Software Engineer and Mobile Developer with a strong backgrou
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />&nbsp;
+<img src="https://www.codemagic.io/images/header-logo.svg" alt="CodeMagic" width="40" height="40" />&nbsp;
 
 
 | GitHub Stats  | GitHub Streak           | GitHub Top Languages  |
