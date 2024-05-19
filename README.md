@@ -30,6 +30,12 @@ I'm an experienced Software Engineer and Mobile Developer with a strong backgrou
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />&nbsp;
 <img src="https://codemagic.io/landing-assets/svg/logo.svg" alt="Codemagic" height="40" />&nbsp;
 
+## Cloud Services
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />&nbsp;
+
 
 | GitHub Stats  | GitHub Streak           | GitHub Top Languages  |
 | ------- | ---------------- | ---------------------------------- |
